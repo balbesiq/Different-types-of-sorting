@@ -37,7 +37,7 @@
 - **Не стабільна сортування**  
 - Виконує однакову кількість порівнянь незалежно від початкового стану масиву
 
-**Приклад компіляції `InsertionSort.java`**  
+**Приклад компіляції `SelectionSort.java`**  
 
 <img width="258" height="117" alt="image" src="https://github.com/user-attachments/assets/89efd148-7305-422b-9ab4-155d0f7d8a23" />
 
