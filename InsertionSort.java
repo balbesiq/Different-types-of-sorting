@@ -1,4 +1,4 @@
-public class Main {
+public class InsertionSort {
     public static void main(String[] args) {
         int[] arr = {47, 50, 61, 41, 53, 12, 68, 63, 3};
 
