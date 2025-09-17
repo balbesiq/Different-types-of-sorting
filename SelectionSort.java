@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         int[] arr = {47, 50, 61, 41, 53, 12, 68, 63, 3};
 
-        System.out.print("\n\tUnsorted array: \n");
+        System.out.print("\n\tUnsorted array:\n");
         printArray(arr);
 
         for(int i = 0; i < arr.length - 1; i++) { /*зовнішній цикл, прогоняємо по всім елементам крім останнього,
