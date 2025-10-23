@@ -43,7 +43,3 @@
 **Висновок:**  
 - **InsertionSort** швидший на майже відсортованих масивах і стабільний.  
 - **SelectionSort** робить багато порівнянь, але мало обмінів, підходить для невеликих масивів або навчальних цілей.
-
----
-
-#Java #SortingAlgorithms #InsertionSort #SelectionSort #Education #Learning
