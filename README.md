@@ -9,7 +9,8 @@
   - `InsertionSort.java` — сортування вставками  
   - `SelectionSort.java` — сортування вибором  
 - **`lab2-sorting/`** — логарифмічні алгоритми  
-  - `RecursiveMergeSort.java` — сортування злиттям (рекурсивне)  
+  - `RecursiveMergeSort.java` — сортування злиттям (рекурсивне)
+  - `IterativeMergeSort.java` - сортування злиттям (ітеративне)
   - `QuickSortHoare.java` — швидке сортування (схема Хоара)
 
 ## ⚙️ Запуск програм
