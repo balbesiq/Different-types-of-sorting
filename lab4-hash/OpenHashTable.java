@@ -19,7 +19,7 @@ public class OpenHashTable {
     @SuppressWarnings("unchecked")
     List<Pair>[] table = new LinkedList[M];
 
-    public OpenHashTableUA() {
+    public OpenHashTable() {
         for (int i = 0; i < M; i++)
             table[i] = new LinkedList<>();
     }
@@ -70,7 +70,7 @@ public class OpenHashTable {
     }
 
     public static void main(String[] args) {
-        OpenHashTableUA h = new OpenHashTableUA();
+        OpenHashTable h = new OpenHashTable();
         String[] words = {"Не", "хвали", "день", "до", "вечора", "а", "хліб", "до", "вечері"};
 
         for (String w : words)
