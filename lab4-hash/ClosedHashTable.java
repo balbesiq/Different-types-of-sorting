@@ -53,7 +53,7 @@ public class ClosedHashTable {
     }
 
     public static void main(String[] args) {
-        ClosedHashTableUA h = new ClosedHashTableUA();
+        ClosedHashTable h = new ClosedHashTable();
         String[] words = {"Не", "хвали", "день", "до", "вечора", "а", "хліб", "до", "вечері"};
 
         for (String w : words)
